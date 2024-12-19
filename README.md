@@ -4,7 +4,7 @@
 
 **Date: December 18, 2024**
 
-:floppy_disk: File: [Webscraping_Scripts_Full](.ipynb)
+:floppy_disk: File: [Python Jupyter Notebook](Webscraping_Scripts_Full.ipynb)
 
 ## :dart: Overview
 
