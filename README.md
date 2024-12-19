@@ -4,7 +4,9 @@
 
 **Date: December 18, 2024**
 
-:floppy_disk: File: [Python Jupyter Notebook](Webscraping_Scripts_Full.ipynb)
+<img src="Scrape-Amazon-Data.png" width="500" height="auto">
+
+:floppy_disk: File: [Python Jupyter Notebook](Webscraping_Scripts_Full.pdf)
 
 ## :dart: Overview
 
